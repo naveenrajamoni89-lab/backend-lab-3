@@ -7,9 +7,11 @@
 
 ---
 
-## Repository & Links
+## Repository & Live Deployment
 
 - **GitHub Repository:** [https://github.com/naveenrajamoni89-lab/backend-lab-3](https://github.com/naveenrajamoni89-lab/backend-lab-3)
+- **Live URL:** [https://backend-lab-3-lbys.onrender.com/](https://backend-lab-3-lbys.onrender.com/)
+- **Live Books API Endpoint:** [https://backend-lab-3-lbys.onrender.com/books](https://backend-lab-3-lbys.onrender.com/books)
 
 ---
 
