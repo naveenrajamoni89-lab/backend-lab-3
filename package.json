@@ -1,7 +1,7 @@
 {
-  "name": "lab-02",
+  "name": "lab-03",
   "version": "1.0.0",
-  "description": "Lab 02 - SQLite Database and CRUD Routes",
+  "description": "Lab 03 - REST API, Query Parameters, Validation and Debugging",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
